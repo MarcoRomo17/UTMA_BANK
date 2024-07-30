@@ -62,3 +62,4 @@ async getTransactions(){
 
 
 }
+export default ManagerTransaction;
